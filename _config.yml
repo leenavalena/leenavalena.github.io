@@ -1,11 +1,11 @@
 # Site settings
-author: Valena Del Valle
-title: My First Week of Flatiron School
+author: "Val" for short.
+title: What's New? 
 header-img: img/home-bg.png
 email: valenadelvalle4@gmail.com
-copyright_name: Valena Del Valle
+copyright_name: "Val" for short.
 description: > # this means to ignore newlines until "baseurl:"
-  What's going on in my head? 
+  I'll tell you in a few...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  leenavalena
